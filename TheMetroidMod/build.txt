@@ -1,0 +1,6 @@
+author = PhilBill44
+version = 0.7.1.3
+displayName = The Metroid Mod
+homepage = https://forums.terraria.org/index.php?threads/the-metroid-mod.78117/
+hideCode = true
+hideResources = true

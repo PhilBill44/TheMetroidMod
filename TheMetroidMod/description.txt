@@ -1,0 +1,18 @@
+The Metroid Mod is a mod dedicated to adding Metroid items to terraria. 
+If you have suggestions/comments, check out the mod homepage. I appreciate any and all suggestions. There is a poll avaliable for the next armor set on the homepage! Poll ends on 3/18! Make sure to vote!
+
+Updates:
+
+0.7.1.3: Added a new Zombie Researcher npc.
+
+0.7.1.2: Added boss music from AM2R
+
+0.7.1.1: Alpha Metroid boss summons infant Metroids.
+
+0.7.1.0: Power Beam now shoots custom projectiles. Fixed Alpha Metroid animation issues.
+
+0.7.0.9: Added a new boss! It's an Alpha Metroid. Summoned with Metroid Husk. Drops Missile Launcher
+
+0.7.0.8: Metroid Larva drop Metroid Teeth. Used to craft new Gravity Suit.
+
+0.7.0.7: Added Metroid Larva NPC. 5% to drop metroid pet
